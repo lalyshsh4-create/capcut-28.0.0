@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/fotball_kora",
     "title": "تحديث جديد !",
     "description": "تم تطوير النسخة!.\n1. فتح جميع مميزاته\n2. https://t.me/fotball_kora\n4. عالم المصممين",
-    "isForce": true,
-    "isExpired": true,
+    "isForce": false,
+    "isExpired": false,
     "expiryDate": "2022-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
